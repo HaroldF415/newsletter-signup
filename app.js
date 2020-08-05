@@ -85,7 +85,7 @@ app.post("/", function(req, res) {
     }); // ends 'response.on'
   }); // ends 'https.request'
 
-  request.write(jsonData); // removing this will cause the app to fail. Triggering the 'failure.html'
+  //request.write(jsonData); // removing this will cause the app to fail. Triggering the 'failure.html'
   request.end();
 
 }); // ends 'app.post'

@@ -1,4 +1,5 @@
 # newsletter-signup
+<img src="images/newsletter-signup.gif" alt="Markdown Preview" style="height: 800px; width:500px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 30px;"/>
 
 > Creating a newsletter-signup project for Dr. Angela Yu's Udemy Course
 ___
