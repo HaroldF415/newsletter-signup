@@ -19,6 +19,8 @@ This project was created to help us learn APIs. In this particular case we are u
 
 There are still issues with this project which will be dealt with promptly. As of 8/5/2020 I'm still documenting my projects. This is the first project that I will come back to and fix the errors that are presented. 
 
+The issue being that when a person is deleted from the MailChimp newsletter database that same person can sign-up through this app and will be presented with a "Success" page. This is a false response. Because once a the user deletes a person from the Mailchimp databas they can no longer sign-up through this third-party app. They must do so through MailChimp directly. 
+
 #### Technologies Used:
 - HTML
 - CSS
