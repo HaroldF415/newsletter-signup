@@ -1,2 +1,7 @@
 important_info_removed.txt
 node_modules
+# dotenv environment variables file
+.env
+.env.test
+npm-debug.log
+.DS_Store
